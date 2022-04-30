@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Adrian/static/css/main.eb16aa17.css",
+    "main.js": "/Portfolio-Adrian/static/js/main.e2749ffb.js",
+    "static/media/roboto-light-webfont.woff": "/Portfolio-Adrian/static/media/roboto-light-webfont.c9e020baeef22bab0dec.woff",
+    "static/media/roboto-light-webfont.woff2": "/Portfolio-Adrian/static/media/roboto-light-webfont.1aece162c8893c3132a8.woff2",
+    "static/media/newake-font-webfont.woff": "/Portfolio-Adrian/static/media/newake-font-webfont.ae0dc6376f383385932e.woff",
+    "static/media/newake-font-webfont.woff2": "/Portfolio-Adrian/static/media/newake-font-webfont.42376198410041eae119.woff2",
+    "index.html": "/Portfolio-Adrian/index.html",
+    "main.eb16aa17.css.map": "/Portfolio-Adrian/static/css/main.eb16aa17.css.map",
+    "main.e2749ffb.js.map": "/Portfolio-Adrian/static/js/main.e2749ffb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb16aa17.css",
+    "static/js/main.e2749ffb.js"
+  ]
+}
